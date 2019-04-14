@@ -5,4 +5,4 @@
 <p align="center">
   <img src="https://github.com/muhamadkhaerul/python-list/blob/master/flowchartuas.jpg"widht="450" height="250" />
 </p>
-### Klik Untuk melihat sourcodenya Lebih Lengkapnya [--> ](https://github.com/muhamadkhaerul/python-list/blob/master/Program)
+### Klik Untuk melihat sourcodenya Lebih Lengkapnya [--> ](https://github.com/muhamadkhaerul/python-list/blob/master/main.py)
